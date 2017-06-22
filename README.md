@@ -1,8 +1,7 @@
 File Reference Link Querystring Version Php Script
 =================
 
-A simple php script that will version reference and link calls from specific file and append last commitid as version. 
-
+A simple php script that will version reference and link calls from specific file and append last commitid as version. Credits to [Neil Male's Robo Php File Versioning](https://github.com/neilmaledev/robo-php-boilerplate)
 Example:
 ```html
 <script src="scripts/app.js?ver=f7d81e30"></script>
