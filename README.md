@@ -9,8 +9,11 @@ Example:
 ```
 
 References: 
+
 [What does appending v-1 to css and javascript urls do?](https://stackoverflow.com/questions/3466989/what-does-appending-v-1-to-css-and-javascript-urls-in-link-and-script-tags-do)
+
 [How to append timestamp to a script file?](https://stackoverflow.com/questions/11467873/how-to-append-timestamp-to-the-java-script-file-in-script-tag-url-to-avoid-cac)
+
 [What is a for in the src attribute of a html script?](https://stackoverflow.com/questions/4220155/what-is-a-for-in-the-src-attribute-of-a-html-script-tag)
 
 Usage
